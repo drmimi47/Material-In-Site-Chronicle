@@ -5,3 +5,5 @@ This repository contains the initial research, references, explorations, and doc
 
 ### Note:
 Future evolutions of the project will not be included in this repository.
+
+<img src="screenshot.png" width="600">
